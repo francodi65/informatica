@@ -1,7 +1,8 @@
 /******************************************************** 
 	* Cátedra de Informática- FCEFYN - UNC
+	* Comisión 5.2- Profesor: Luis Ventre
 	* Ayudantes Alumnos: Di Lorenzo Franco-Del Boca Juan
-	* Trabajo Práctico 1: "Sistema Bancario Básico"
+	* Trabajo Práctico Optativo: "Sistema Bancario Básico"
 	* Alumno: <Escriba Aqui su nombre>
 *********************************************************/
 
